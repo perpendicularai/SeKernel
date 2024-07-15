@@ -1,5 +1,5 @@
 # 📝 SeKernel
-A semantic-kernel for Streamlit python projects
+A semantic-kernel for Streamlit python projects to give your applications 🧠 memory
 
 ## ⚙️ How to
 - clone the repo
