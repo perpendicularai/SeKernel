@@ -5,7 +5,7 @@ A semantic-kernel for Streamlit python projects
 - clone the repo
 - from within the project directory run `pip install -e .`
 - Import into your projects:
-- - ```
+  - ```
     # Load kernel
     import kernel
 
